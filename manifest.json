@@ -1,11 +1,11 @@
-  "name": "ジャジャンケン",//ここはサイト名
-  "short_name": "最初はグー！",//ここはサイト名
-  "theme_color": "#2196f3",//好きなカラーコードに
-  "background_color": "#2196f3",//好きなカラーコードに
-  "display": "standalone",//変更しない
-  "scope": "/",//変更しない
-  "start_url": "/index.html",//変更しない
-  "icons": [{                 //変更しない
+  "name": "ジャジャンケン",
+  "short_name": "最初はグー！",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/index.html",
+  "icons": [{
       "src": "janken192.png",
       "sizes": "192x192",
       "type": "image/png"
